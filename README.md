@@ -18,6 +18,10 @@ Transforming ideas into web realities with:
 Proficient in:
 - **Git:** Ensuring smooth collaboration and version control magic.
 
+
+## Interests:
+Passionate about coding and eager to explore the world of open source. Excited about contributing to impactful projects and collaborating with the vibrant developer community. 🌐
+
 ## Get in Touch 📬
 Feel free to reach out for collaboration, discussions, or just to say hi!
 
