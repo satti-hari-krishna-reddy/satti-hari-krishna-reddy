@@ -13,6 +13,7 @@ Transforming ideas into web realities with:
 - **CSS:** Styling things up.
 - **JavaScript:** Adding interactivity.
 - **TypeScript:** Bringing strong typing to the web.
+- **React:** Building modern websites.
 
 ## Version Control Maestro 🤖
 Proficient in:
