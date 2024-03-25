@@ -25,5 +25,5 @@ Interested to explore the world of open source. Excited about contributing to im
 ## Get in Touch 📬
 Feel free to reach out for collaboration, discussions, or just to say hi!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://in.linkedin.com/in/hari-krishna-reddy-86659b249)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://in.linkedin.com/in/hari-krishna-r-86659b249)
 
