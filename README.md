@@ -1,4 +1,4 @@
-# Hello, Fellow Developers! 👋
+# Hello, Fellow Developers! 
 
 I'm Hari Krishna.
 
@@ -18,9 +18,8 @@ Transforming ideas into web realities with:
 Proficient in:
 - **Git:** Ensuring smooth collaboration and version control.
 
-
 ## Interests:
-Interested to explore the world of open source. Excited about contributing to impactful projects and collaborating with the vibrant developer community. 🌐
+Interested to explore the world of open source. Excited about contributing to impactful projects and collaborating with the vibrant developers.
 
 ## Get in Touch 📬
 Feel free to reach out for collaboration, discussions, or just to say hi!
