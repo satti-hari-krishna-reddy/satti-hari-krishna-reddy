@@ -2,22 +2,6 @@
 
 I'm Hari Krishna.
 
-## Programming 
-- **C** 
-- **Java** 
-- **DSA (Data Structures and Algorithms):** Solving problems with algorithmic knowledge.
-
-## Web Development 💻
-Transforming ideas into web realities with:
-- **HTML:** Building the foundation.
-- **CSS:** Styling things up.
-- **JavaScript:** Adding interactivity.
-- **React:** Building modern websites.
-
-## Version Control 
-Proficient in:
-- **Git:** Ensuring smooth collaboration and version control.
-
 ## Interests:
 Interested to explore the world of open source. Excited about contributing to impactful projects and collaborating with the vibrant developers.
 
