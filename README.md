@@ -2,7 +2,6 @@
 
 I'm Hari Krishna.
 
-## Interests:
 Interested to explore the world of open source. Excited about contributing to impactful projects and collaborating with the vibrant developers.
 
 ## Get in Touch 📬
