@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Hari
 
-I build backend systems, automate workflows, and love turning complex ideas into real-world tools.  
-I prefer clarity over clutter. Simplicity, speed, and strong opinions drive my dev style.
+I build backend systems, automate workflows, and love turning complex ideas into real-world tools.
+I prefer clarity over clutter. I start small, ship fast, and layer complexity only when it’s truly needed.
 
 ---
 
@@ -21,22 +21,21 @@ I prefer clarity over clutter. Simplicity, speed, and strong opinions drive my d
 - **Languages:** Go, TypeScript, Python  
 - **Infra:** Docker, GitHub Actions, Redis, MongoDB, Azure  
 - **AI/LLMs:** Gemini, OpenAI, Langchain, Prompt Engineering  
-- **Frontend:** React, Tailwind
+- **Frontend:** React, Tailwind, Material UI, Vite
 
 ---
 
 ### 🔍 What I'm Looking For
 
 - Remote roles in backend, infra, or AI tooling  
-- Fast-moving teams who value indie hacker energy  
 - Projects where shipping > talking
 
 ---
 
 ### 📫 Say hi
 
-- [LinkedIn](https://www.linkedin.com/in/your-handle)
-- [Twitter / X](https://x.com/your-handle)
+- [LinkedIn](https://www.linkedin.com/in/hari-krishna-r-86659b249)
+- [Twitter / X](https://x.com/66_hks)
 - Email: `hari.100.hks@outlook.com`
 
 ---
