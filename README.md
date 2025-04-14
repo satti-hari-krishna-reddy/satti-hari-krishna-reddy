@@ -5,14 +5,17 @@ I prefer clarity over clutter. I start small, ship fast, and layer complexity on
 
 ---
 
+
+💼 Experience  
+🧑‍💻 Google Summer of Code 2024 — Apertium (added spellcheck to their web tools)  
+🛡️ GitHub Octernship — 6-month SDE @ Shuffle (cybersecurity automation platform)  
+
 ### 💻 What I’ve Built
 
 - **BlogShare** – Automate blog sharing across X, LinkedIn, Hashnode with AI (Go + React + Azure + Gemini)
 - **RecodeAI** – Self-hosted ChatGPT clone for docs/code/pdf with search (Go + Qdrant + LLMs)
 - **Mini Analyst** *(MVP)* – AI assistant for Excel sheets: visualize, query, and extract insights at scale
 - **DebateGPT** *(Hackathon Winner 💰)* – LLM debate engine where AI personas battle and get judged
-
-> 📌 Hackathon Winner | 🏢 6-month internship | 🧑‍💻 GSoC '24 | OSS Contributor
 
 ---
 
