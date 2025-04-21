@@ -9,23 +9,41 @@ I prefer clarity over clutter. I start small, ship fast, and layer complexity on
 
 
 ### 💼 Experience  
-🧑‍💻 Google Summer of Code 2024 — Apertium (added spellcheck to their web tools)  
-🛡️ GitHub Octernship — 6-month SDE intern @ Shuffle (cybersecurity automation platform)  
+🧑‍💻 **Google Summer of Code 2024** — Apertium (added spellcheck to their web tools)
+🔗 [Visit the project site](https://summerofcode.withgoogle.com/archive/2024/projects/G8zS5pjT)
+
+🛡️ **GitHub Octernship** — 6-month SDE intern @ Shuffle (cybersecurity automation platform) 
+🔗 [Full Work Summary + Merged PRs](https://gist.github.com/satti-hari-krishna-reddy/c0ff22d6a79c2b6016bea2aa5980f4a0)
+
 
 ### 💻 What I’ve Built
 
-- **BlogShare** – Automate blog sharing across X, LinkedIn, Hashnode with AI (Go + React + Azure + Gemini)
-- **RecodeAI** – Self-hosted ChatGPT clone for docs/code/pdf with search (Go + Qdrant + LLMs)
-- **Mini Analyst** *(MVP)* – AI assistant for Excel sheets: visualize, query, and extract insights at scale
-- **DebateGPT** *(Hackathon Winner 💰)* – LLM debate engine where AI personas battle and get judged
+- **BlogShare** – Automates blog sharing to X, LinkedIn & Hashnode with AI-generated summaries (Gemini).  
+  🧠 Go, React (Vite, MUI), Redis, MongoDB, Azure, Docker  
+  🔗 [Video](https://youtu.be/ifMScMTnVYY) • [GitHub](https://github.com/satti-hari-krishna-reddy/BlogShare)
 
+- **RecodeAI** – AI-enhanced binary decompiler (Ghidra + GPT) running in Azure containers.  
+  🧠 Go, Python, Ghidra, React, Azure Functions, Blob Storage  
+  🔗 [Video](https://youtu.be/KlkTiKta_hE) • [GitHub](https://github.com/satti-hari-krishna-reddy/RecodeAI)
+
+- **Data Whisperer** – AI tool for EDA & insight generation from Excel/CSV.  
+  🧠 Python, Streamlit, Gemini API  
+  🔗  [Video](https://youtu.be/krPbN5fg55Y?si=OrasUxdKzSWSiEBC) • [GitHub](https://github.com/satti-hari-krishna-reddy/Data-Whisperer) • [Live](https://deepnote.com/streamlit-apps/c4547a22-bd61-4894-bbac-5bbf54d485d1)
+
+- **ArguAI** *(🏆 Best Multimodal App @ Modus Hackathon)* – AI debate simulator with LLM personas.  
+🧠 React, GPT-4, Modus, CosmosDB  
+🔗 [Video](https://youtu.be/W0zLhB_xdEo) • [Blog](https://hari66.hashnode.dev/arguai-enhancing-ai-interaction-with-real-time-debates) • [GitHub](https://github.com/satti-hari-krishna-reddy/arguai) 
+
+- **QuickIntuit** – Chrome extension for instant AI summaries & answers while browsing.  
+  🧠 TypeScript, Chrome APIs, GPT-4  
+  🔗 [GitHub](https://github.com/satti-hari-krishna-reddy/QuickIntuit)
 ---
 
 ### 🔧 I Work With
 
 - **Languages:** Go, TypeScript, Python  
 - **Infra:** Docker, GitHub Actions, Redis, MongoDB, Azure  
-- **AI/LLMs:** Gemini, OpenAI, Langchain, Prompt Engineering  
+- **AI/LLMs:** Gemini, Prompt Engineering  
 - **Frontend:** React, Tailwind, Material UI, Vite
 
 ---
