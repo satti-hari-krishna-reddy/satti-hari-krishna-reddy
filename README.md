@@ -15,6 +15,7 @@ I prefer clarity over clutter. I start small, ship fast, and layer complexity on
 🛡️ **GitHub Octernship** — 6-month SDE intern @ Shuffle (cybersecurity automation platform) 
 🔗 [Full Work Summary + Merged PRs](https://gist.github.com/satti-hari-krishna-reddy/c0ff22d6a79c2b6016bea2aa5980f4a0)
 
+---
 
 ### 💻 What I’ve Built
 
@@ -35,7 +36,7 @@ I prefer clarity over clutter. I start small, ship fast, and layer complexity on
 🔗 [Video](https://youtu.be/W0zLhB_xdEo) • [Blog](https://hari66.hashnode.dev/arguai-enhancing-ai-interaction-with-real-time-debates) • [GitHub](https://github.com/satti-hari-krishna-reddy/arguai) 
 
 - **QuickIntuit** – Chrome extension for instant AI summaries & answers while browsing.  
-  🧠 TypeScript, Chrome APIs, GPT-4  
+  🧠 React, Chrome APIs, Gemini AI
   🔗 [GitHub](https://github.com/satti-hari-krishna-reddy/QuickIntuit)
 ---
 
