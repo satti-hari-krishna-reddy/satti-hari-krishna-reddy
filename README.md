@@ -23,7 +23,7 @@ I prefer clarity over clutter. I start small, ship fast, and layer complexity on
   🧠 Go, React (Vite, MUI), Redis, MongoDB, Azure, Docker  
   🔗 [Video](https://youtu.be/ifMScMTnVYY) • [GitHub](https://github.com/satti-hari-krishna-reddy/BlogShare)
 
-- **RecodeAI** – AI-enhanced binary decompiler (Ghidra + GPT) running in Azure containers.  
+- **RecodeAI** – AI-enhanced binary decompiler (Ghidra + Gemini) running in Azure containers.  
   🧠 Go, Python, Ghidra, React, Azure Functions, Blob Storage  
   🔗 [Video](https://youtu.be/KlkTiKta_hE) • [GitHub](https://github.com/satti-hari-krishna-reddy/RecodeAI)
 
