@@ -9,7 +9,7 @@ I prefer clarity over clutter. I start small, ship fast, and layer complexity on
 
 
 ### 💼 Experience  
-🧑‍💻 **Google Summer of Code 2024** — Apertium (added spellcheck to their web tools)
+🧑‍💻 **Google Summer of Code 2024** — Apertium 
 🔗 [Visit the project site](https://summerofcode.withgoogle.com/archive/2024/projects/G8zS5pjT)
 
 🛡️ **GitHub Octernship** — 6-month SDE intern @ Shuffle (cybersecurity automation platform) 
