@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Hari
+### 👋 Hey, I'm Hari
 ![Profile Views](https://komarev.com/ghpvc/?username=satti-hari-krishna-reddy&color=blue&style=flat)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Work-%2300c853?style=flat-square&logo=Handshake&logoColor=white)
 
