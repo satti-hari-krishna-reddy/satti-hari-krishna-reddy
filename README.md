@@ -12,7 +12,7 @@ I prefer clarity over clutter. I start small, and layer complexity only when it�
 <img src="https://github.com/user-attachments/assets/8a63b456-daa2-4a92-bb2e-e3a6664f2d97" alt="GSoC" width="25" style="vertical-align: middle;"> **Google Summer of Code 2024** — Apertium 
 🔗 [Visit the project site](https://summerofcode.withgoogle.com/archive/2024/projects/G8zS5pjT)
 
- **GitHub Octernship** — 6-month SDE intern @ Shuffle (cybersecurity automation platform) 
+ **GitHub Octernship** — 6-month SDE intern @ Shuffle
 🔗 [Full Work Summary + Merged PRs](https://gist.github.com/satti-hari-krishna-reddy/c0ff22d6a79c2b6016bea2aa5980f4a0)
 
 ---
