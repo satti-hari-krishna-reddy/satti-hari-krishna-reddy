@@ -8,12 +8,13 @@ I prefer clarity over clutter. I start small, and layer complexity only when it�
 
 
 ### 💼 Experience  
+<img src="https://media.licdn.com/dms/image/v2/D560BAQFV-gJK9bN8Ow/company-logo_200_200/company-logo_200_200/0/1716471576750/shuffleio_logo?e=1754524800&v=beta&t=eomamMCL4mstL6MLK2jXxVFrkh8mRZcP7C-Ig5vmdQk" alt="Shuffle" width="21" style="vertical-align: middle;"> **Shuffle** — Software Engineer
 
 <img src="https://github.com/user-attachments/assets/8a63b456-daa2-4a92-bb2e-e3a6664f2d97" alt="GSoC" width="25" style="vertical-align: middle;"> **Google Summer of Code 2024** — Apertium 
 🔗 [Visit the project site](https://summerofcode.withgoogle.com/archive/2024/projects/G8zS5pjT)
 
- **GitHub Octernship** — 6-month SDE intern @ Shuffle
-🔗 [Full Work Summary + Merged PRs](https://gist.github.com/satti-hari-krishna-reddy/c0ff22d6a79c2b6016bea2aa5980f4a0)
+<img src="https://cdn.dribbble.com/userupload/5600129/file/still-e24fd4c36d90739adf05b63e5fa7fa63.png?resize=1600x1200" alt="Octernship" width="36" style="vertical-align: middle;"> **GitHub Octernship** — SDE intern @ Shuffle
+🔗 [Work Summary](https://gist.github.com/satti-hari-krishna-reddy/c0ff22d6a79c2b6016bea2aa5980f4a0)
 
 ---
 
@@ -46,13 +47,6 @@ I prefer clarity over clutter. I start small, and layer complexity only when it�
 - **Infra:** Docker, GitHub Actions, Redis, MongoDB, Azure  
 - **AI/LLMs:** Gemini, Prompt Engineering  
 - **Frontend:** React, Tailwind, Material UI, Vite
-
----
-
-### 🔍 What I'm Looking For
-
-- Remote roles in backend, infra, or AI tooling  
-- Projects where shipping > talking
 
 ---
 
