@@ -8,6 +8,8 @@ I prefer clarity over clutter. I start small, and layer complexity only when it�
 
 ### 💻 What I’ve Built
   🔗 [Checkout the link](https://github.com/satti-hari-krishna-reddy/whatibuilt)
+  
+---
 
 ### 🔧 I Work With
 
