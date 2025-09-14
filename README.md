@@ -7,14 +7,6 @@ Just another dev, trying not to drown in the sea of other devs
 
 ### 💻 What I’ve Built
   🔗 [Checkout the link](https://github.com/satti-hari-krishna-reddy/whatibuilt)
-  
----
-
-### 🔧 I Work With
-
-- **Languages:** Go, TypeScript, Python  
-- **Infra:** Docker, GitHub Actions, Redis, MongoDB, Azure  
-- **AI/LLMs:** Gemini, Prompt Engineering 
 
 ---
 
