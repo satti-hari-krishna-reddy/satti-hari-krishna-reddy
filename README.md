@@ -1,8 +1,7 @@
 ### 👋 Hey, I'm Hari
 ![Profile Views](https://komarev.com/ghpvc/?username=satti-hari-krishna-reddy&color=blue&style=flat)
 
-I build backend systems, and love turning a rough idea into a real-world tool.
-I prefer clarity over clutter. I start small, and layer complexity only when it’s truly needed.
+Just another dev, trying not to drown in the sea of other devs
 
 ---
 
