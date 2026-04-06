@@ -1,7 +1,7 @@
 ### 👋 Hey, I'm Hari
 ![Profile Views](https://komarev.com/ghpvc/?username=satti-hari-krishna-reddy&color=blue&style=flat)
 
-**Just... another dev**
+**figuring things out...**
 ---
 
 ### 💻 What I’ve Built
